@@ -240,4 +240,4 @@ This repository serves as the official landing page for Empire Total War. The so
 **Get the most recent version of Empire Total War today!**
 
 ---
-**Last updated:** 2026-09-21 16:51:16 UTC
+**Last updated:** 2026-09-21 20:52:13 UTC
